@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, C++, embedded C**
 
-- ⚡ Fun fact **I am an advocate for FOSS**
+- ⚡ Fun fact **FOSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
