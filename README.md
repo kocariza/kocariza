@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kocariza&label=Profile%20views&color=0e75b6&style=flat" alt="kocariza" /> </p>
 
-- 🌱 I’m currently learning **R for data analysis**
+🌱 I’m currently learning **R for data analysis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
