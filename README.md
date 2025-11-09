@@ -1,4 +1,4 @@
-![Masterhead](https://file.io/7T9Fv9uew6ES)
+
 <h1 align="center">Hi 👋, I'm Kimberly</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kocariza&label=Profile%20views&color=0e75b6&style=flat" alt="kocariza" /> </p>
