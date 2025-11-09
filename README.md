@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **R for data analysis**
 
-- 💬 Ask me about **Python, C++, embedded C**
-
-- ⚡ Fun fact **FOSS**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
